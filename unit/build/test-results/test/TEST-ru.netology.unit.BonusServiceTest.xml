@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.unit.BonusServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-01-21T13:40:50" hostname="VBukina" time="0.021">
+  <properties/>
+  <testcase name="shouldReturn100IfAmountMoreThen11000()" classname="ru.netology.unit.BonusServiceTest" time="0.018"/>
+  <testcase name="shoulReturnZeroIfAmountLowerThan1000()" classname="ru.netology.unit.BonusServiceTest" time="0.001"/>
+  <testcase name="calculateBonus()" classname="ru.netology.unit.BonusServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
